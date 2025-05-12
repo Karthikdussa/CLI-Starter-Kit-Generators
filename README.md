@@ -4,7 +4,7 @@
 
 This repo contains utility cli scripts built in node that can be used to generate flutter, ionic or angular apps with necessary configuration.
 
-The scripts can be found inside the `/scripts` folder and every script contains its own **README** file that includes detailed instructions on how to run it.
+The scripts can be found inside the `/scripts` folder and every script contains its own **REALME** file that includes detailed instructions on how to run it.
 
 `/flutter` folder contains dart utility classes that assist in generating the flutter app.
 
